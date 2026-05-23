@@ -1,3 +1,7 @@
+//Added random scripture selection from a list
+//Prevented already hidden words from being selected again
+//Can load scriptures from a file
+
 using System;
 using System.Collections.Generic;
 
