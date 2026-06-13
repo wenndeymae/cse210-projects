@@ -1,0 +1,4 @@
+150
+Simple|Job Hunting|Find a permanent wfh job|100|True
+Eternal|Pray|pray everyday|50
+Checklist|Temple|go to temple|50|0|3|50
